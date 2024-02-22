@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/meandi/Linux高性能服务器编程/build/8.高性能服务器程序框架",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/main.dir/main.cpp.o -c /home/meandi/Linux高性能服务器编程/8.高性能服务器程序框架/main.cpp",
+  "file": "/home/meandi/Linux高性能服务器编程/8.高性能服务器程序框架/main.cpp"
+},
+{
+  "directory": "/home/meandi/Linux高性能服务器编程/build/10.信号",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/server.dir/SIGURG.cpp.o -c /home/meandi/Linux高性能服务器编程/10.信号/SIGURG.cpp",
+  "file": "/home/meandi/Linux高性能服务器编程/10.信号/SIGURG.cpp"
+}
+]

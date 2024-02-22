@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/server.dir/SIGURG.cpp.o  -o server 

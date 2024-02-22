@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/meandi/Linux高性能服务器编程/10.信号/SIGURG.cpp
+sys/socket.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+assert.h
+-
+stdio.h
+-
+unistd.h
+-
+stdlib.h
+-
+errno.h
+-
+string.h
+-
+signal.h
+-
+fcntl.h
+-
+
